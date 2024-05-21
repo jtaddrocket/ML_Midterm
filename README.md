@@ -13,4 +13,5 @@ kiểm tra với dữ liệu trong tập validation.
 luyện mô hình bằng tập dữ liệu training sau đó chạy kiểm tra với dữ liệu trong tập validation.
 6) So sánh độ chính xác (sử dụng accuracy, confusion matrix, recall và precision) của các mô hình trong ý 3) 4) và ý 5).
 Giải thích kết quả thu được.
+
 **Yêu cầu giữa kỳ: Ý 1), 2) và 4) và phần tương ứng của ý 6.**
